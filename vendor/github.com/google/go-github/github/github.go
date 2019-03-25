@@ -27,7 +27,7 @@ import (
 )
 
 const (
-	defaultBaseURL = "https://api.github.com/"
+	defaultBaseURL = "https://github.ibm.com/api/v3/"
 	uploadBaseURL  = "https://uploads.github.com/"
 	userAgent      = "go-github"
 
